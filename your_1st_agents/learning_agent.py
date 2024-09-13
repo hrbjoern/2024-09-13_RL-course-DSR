@@ -1,6 +1,8 @@
 """Your first learning agent: template."""
 # 0 - Choose an algorithm from ray.rllib.algorithms, e.g. ray.rllib.algorithms.xxx as
 # xxxConfig
+
+print("hello")
 # 1 -  Build an agent
 # 1.1 - Get the default config of xxxConfig()
 # 1.2 - Examine the config by converting it to a dict via .to_dict() method
